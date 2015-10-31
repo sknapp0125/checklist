@@ -1,5 +1,3 @@
 == Checklist App
 
 Created with Ruby on Rails.
-
-Contains basic Bootstrap layout elements
